@@ -1,0 +1,32 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "Faculty-library",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "petrnrcotjzkry",
+    "password": "73de33bb84f13837eb3ade8a377a48d0d0eac7e03fcc66fc26737a70c084dfe9",
+    "database": "dftc0khpgk8j4j",
+    "port": 5432,
+    "host": "ec2-63-32-7-190.eu-west-1.compute.amazonaws.com",
+    "dialect": "postgres",
+    "logging": false,
+    "sll": true,
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+Team{name='najbolji tim', email='luka.jeremic.social@gmail.com', phoneNumber='6969696', teamMoto='yooooooooooo', referral='Reklama', teamSize=3}
+
+Ucesnik 1:Ime: Luka
+Prezime: Jeremic
+Email adresa: luka.jeremic.social@gmail.com
+Broj ucesca na hakatonima: 12
+Uloga: safd
+LinkedIn profil: 2342
+
+
+Ucesnik 2:Ime: Luka
+Prezime: Jeremic
+Email adresa: luka.jeremic.social@gmail.com
+Broj ucesca na hakatonima: 12
+Uloga: 234242
+LinkedIn profil: asdf
+
+
+Ucesnik 3:Ime: Luka
+Prezime: Jeremic
+Email adresa: luka.jeremic.social@gmail.com
+Broj ucesca na hakatonima: 21
+Uloga: sd
+LinkedIn profil: afe
+
