@@ -1,0 +1,13 @@
+GET http://localhost:8080/methodA1
+POST http://localhost:8080/methodA2
+{
+"username":"luka",
+"password":"password"
+}
+
+GET http://localhost:8080/methodB1
+POST http://localhost:8080/methodB2
+{
+"username":"luka",
+"password":"password"
+}
